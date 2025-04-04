@@ -19,6 +19,7 @@ header {
 
 .header__nav-list {
     display: flex;
+    justify-content: center;
     gap: 8px 32px;
     flex-wrap: wrap;
     margin-bottom: 110px;

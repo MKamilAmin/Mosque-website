@@ -1,6 +1,7 @@
 @import url(./styles/base/_reset.css);
 @import url(./styles/utils/utility-classes.css);
 @import url(./styles/sections/header.css);
+@import url(./styles/sections/cards.css);
 
 :root {
     --clr-bg: #15110e;
